@@ -1,0 +1,18 @@
+{
+  "name": "hltb-bot",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "howlongtobeat": "^1.5.1",
+    "tmi.js": "^1.8.5"
+  }
+}
